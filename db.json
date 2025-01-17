@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Sagnik Metiya",
+      "age": 29,
+      "email": "metiyasagnik692@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "The Uhronchondis",
+      "age": 24,
+      "email": "theuhronchondis@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "The Uhronchondis1",
+      "age": 25,
+      "email": "theuhronchondis1@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "The Uhronchondis2",
+      "age": 26,
+      "email": "theuhronchondis2@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "The Uhronchondis3",
+      "age": 27,
+      "email": "theuhronchondis3@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Akash Metiya",
+      "age": 29,
+      "email": "metiyasagnik692@gmail.com",
+      "id": 7
+    }
+  ]
+}
